@@ -1,5 +1,5 @@
 package tests;
-import Config.TestConfig;
+import config.TestConfig;
 import com.codeborne.selenide.Configuration;
 import helpers.AuthApi;
 import io.restassured.RestAssured;
